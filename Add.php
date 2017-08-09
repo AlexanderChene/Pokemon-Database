@@ -4,7 +4,7 @@
 	 $cat_rs=mysqli_fetch_array($cat_query);
 	 $Type1=$_POST['Type1'];
 	 $Type2=$_POST['Type2'];
-
+//66666
 
 ?>
 <?php
